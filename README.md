@@ -1,9 +1,13 @@
 #Учебная сборка Loftschool (выпускной проект №1) 
-
+#Дарчук Сергей
+#Добавлены tasks:  
+#spritesmith (спрайт из png), 
+#gulp-file-copy (копирование шрифтов),
+#lint (eslint)
 Stack:
  - Gulp 4.0
  
-Getting started:
+Getting started: //Выполнено
 
 1. clone this repo
 2. cd path/to/
